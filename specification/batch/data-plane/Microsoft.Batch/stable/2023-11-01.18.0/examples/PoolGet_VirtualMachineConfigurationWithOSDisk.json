@@ -45,7 +45,7 @@
               "storageAccountType": "standardssd_lrs"
             },
             "diskSizeGB": 100,
-            "caching": "readWrite"
+            "caching": "readwrite"
           },
           "nodeAgentSKUId": "batch.node.ubuntu 20.04"
         },
