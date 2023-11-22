@@ -16,7 +16,7 @@
         },
         "nodeAgentSKUId": "batch.node.ubuntu 18.04",
         "securityProfile": {
-          "securityType": "TrustedLaunch",
+          "securityType": "trustedLaunch",
           "encryptionAtHost": true,
           "uefiSettings": {
             "secureBootEnabled": false,

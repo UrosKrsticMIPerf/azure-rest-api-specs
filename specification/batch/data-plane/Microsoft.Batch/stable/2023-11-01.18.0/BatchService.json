@@ -13707,7 +13707,7 @@
       ],
       "x-ms-enum": {
         "name": "StorageAccountType",
-        "modelAsString": true,
+        "modelAsString": false,
         "values": [
           {
             "value": "standard_lrs",

@@ -18,7 +18,7 @@
           "managedDisk": {
             "storageAccountType": "StandardSSD_LRS"
           },
-          "caching": "ReadWrite",
+          "caching": "readWrite",
           "ephemeralOSDiskSettings": {
             "placement": "CacheDisk"
           }

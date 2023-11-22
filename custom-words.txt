@@ -2683,10 +2683,12 @@ ssis
 ssisdb
 ssoadfs
 sstp
+SSDLRS
 ssword
 stac
 stackset
 standardasciifolding
+standardssd
 startlocalrun
 startpacketcapture
 startrun
